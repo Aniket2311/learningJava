@@ -3,17 +3,21 @@ package com.aniketgovekar;
 public class Main {
 
     public static void main(String[] args) {
-	// todo Hello World Example
+	// todo String Example
 
-        System.out.println("Hello Aniket!");
-        int myFirstNumber = (10 + 5) + (2 * 10);
-        int mySecondNumber = 12;
-        int myThridNumber = myFirstNumber * 2;
+        String myString = "This is a String";
+        System.out.println("myString-------> " + myString);
+        myString = myString + ", this is more";
+        System.out.println("myString------> " + myString);
 
-        int myTotal = myFirstNumber + mySecondNumber + myThridNumber;
+        String lastString = "10 ";
+        int lastInt = 50;
+        System.out.println("lastString ------------> " + lastString + (lastInt + lastInt));
 
-        int difference = 1000 - myTotal;
-        System.out.println(difference);
+        double doubleNumber = 120.47d;
+        lastString = lastString + doubleNumber;
+        System.out.println("lastString ------------> " + lastString);
+
 
     }
 }
