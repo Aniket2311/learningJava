@@ -1,4 +1,4 @@
-package com.aniketgovekar.com.aniketgovekar.operators.com.aniketgovekar.whitespaceandindenting;
+package com.aniketgovekar.whitespaceandindenting;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.aniketgovekar.com.aniketgovekar.operators;
+package com.aniketgovekar.operators;
 
 public class Main {
     public static void main(String[] args) {

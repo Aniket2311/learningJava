@@ -1,4 +1,4 @@
-package com.aniketgovekar.com.aniketgovekar.operators.com.aniketgovekar.keywordsandexpressions;
+package com.aniketgovekar.keywordsandexpressions;
 
 public class Main {
 
