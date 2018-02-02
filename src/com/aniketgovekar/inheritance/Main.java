@@ -12,7 +12,11 @@ public class Main {
 */
 
         System.out.println("****************************************** Challenge");
-
+        Audi audi = new Audi(36);
+        audi.steer(45);
+        audi.accelerate(30);
+        audi.accelerate(20);
+        audi.accelerate(-42);
 
     }
 }
