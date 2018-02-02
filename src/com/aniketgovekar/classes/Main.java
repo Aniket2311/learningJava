@@ -9,7 +9,7 @@ public class Main {
         carPorsche.setStrModel("911");
         System.out.println("After - Model------> " + carPorsche.getStrModel());
 
-        System.out.println("********************************* Challenge");
+        System.out.println("********************************* Challenge 1");
         System.out.println("********************************* Default Account");
         BankAccount defaultAccount = new BankAccount();
         System.out.println(defaultAccount.getStrAccountNo());
@@ -22,5 +22,22 @@ public class Main {
         System.out.println(aniketAccount.getDoubleBalance());
         aniketAccount.depositFund(1000);
         aniketAccount.withdrawFund(500);
+
+        System.out.println("********************************* Aniket2 Account");
+        BankAccount aniket2Account = new BankAccount("Aniket2", "aniket2@gmail.com", "123456");
+        System.out.println(aniket2Account.getStrAccountNo() + " name " + aniket2Account.getStrCustomerName());
+
+        System.out.println("********************************* Challenge 2");
+        VipCustomer aniketVip = new VipCustomer();
+        System.out.println("********************************* Default VIP");
+        System.out.println("Name = " + aniketVip.getStrName());
+        System.out.println("CreditLimit = " + aniketVip.getDoubleCreditLimit());
+        System.out.println("EmailAddress = " + aniketVip.getStrEmailAddress());
+
+        VipCustomer aniket2Vip = new VipCustomer("aniket2", 85_000d);
+        System.out.println("********************************* Customized VIP");
+        System.out.println("Name = " + aniket2Vip.getStrName());
+        System.out.println("CreditLimit = " + aniket2Vip.getDoubleCreditLimit());
+        System.out.println("EmailAddress = " + aniket2Vip.getStrEmailAddress());
     }
 }
