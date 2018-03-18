@@ -1,6 +1,13 @@
 package com.aniketgovekar.listandarraylist.challenge;
 
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
+import java.util.Scanner;
+
 public class Main {
+
+    private static Scanner scanner = new Scanner(System.in);
+    private static MobilePhone mobilePhone = new MobilePhone("9619762834");
 
     public static void main(String[] args) {
         boolean quit = false;
@@ -8,8 +15,54 @@ public class Main {
         printAction();
 
         while (!quit) {
+            System.out.println("\nEnter action: (6 to show available actions)");
+            int action = scanner.nextInt();
+            scanner.nextLine();
 
+            switch (action) {
+                case 0:
+                    System.out.println("\nShutting down.....");
+                    quit = true;
+                    break;
+
+                case 1:
+                    mobilePhone.printContacts();
+                    break;
+
+                case 2:
+                    addNewContact();
+                    break;
+
+                case 3:
+                    updateContact();
+                    break;
+
+                case 4:
+                    removeContact();
+                    break;
+
+                case 5:
+                    queryContact();
+                    break;
+
+                case 6:
+                    printAction();
+                    break;
+            }
         }
+    }
+
+    private static void addNewContact() {
+        System.out.println("Enter new contact name: ");
+        String name = scanner.nextLine();
+        System.out.println("Enter phone number: ");
+        String phone = scanner.nextLine();
+        Contact newContact = Contact.createContact(name, phone);
+
+        if (mobilePhone.addNewContact(newContact))
+            System.out.println("New Contact added: name = " + name + ", phone = " + phone);
+        else
+            System.out.println("Cannot add, " + name + " already on file.");
     }
 
     private static void printAction() {
