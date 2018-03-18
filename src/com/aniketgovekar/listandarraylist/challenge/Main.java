@@ -1,7 +1,5 @@
 package com.aniketgovekar.listandarraylist.challenge;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-
 import java.util.Scanner;
 
 public class Main {
@@ -50,6 +48,58 @@ public class Main {
                     break;
             }
         }
+    }
+
+    private static void updateContact() {
+        System.out.println("Enter existing contact name: ");
+        String name = scanner.nextLine();
+        Contact existingContact = mobilePhone.queryContact(name);
+
+        if (existingContact == null) {
+            System.out.println("Contact not found.");
+            return;
+        }
+
+        System.out.println("Enter new contact name: ");
+        String newName = scanner.nextLine();
+        System.out.println("Enter new contact number: ");
+        String newNumber = scanner.nextLine();
+        Contact newContact = Contact.createContact(newName, newNumber);
+
+        if (mobilePhone.updateContact(existingContact, newContact))
+            System.out.println("Successfuylly updated record.");
+        else
+            System.out.println("Error while updating the record");
+    }
+
+    private static void removeContact() {
+        System.out.println("Enter the contact name you want to delete: ");
+        String name = scanner.nextLine();
+        Contact existingContact = mobilePhone.queryContact(name);
+
+        if (existingContact == null) {
+            System.out.println("Contact not found.");
+            return;
+        }
+
+        if (mobilePhone.removeContact(existingContact))
+            System.out.println("Successfully deleted.");
+        else
+            System.out.println("Error while deleting the contact");
+    }
+
+    private static void queryContact() {
+        System.out.println("Enter the contact name you want to delete: ");
+        String name = scanner.nextLine();
+        Contact existingContact = mobilePhone.queryContact(name);
+
+        if (existingContact == null) {
+            System.out.println("Contact not found.");
+            return;
+        }
+
+        System.out.println("Name: " + existingContact.getName() + ", " +
+                "Phone Number = " + existingContact.getPhoneNumber());
     }
 
     private static void addNewContact() {
