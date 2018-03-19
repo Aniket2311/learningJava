@@ -6,5 +6,10 @@ public class Main {
         aniketsPhone.powerOn();
         aniketsPhone.callPhone(12345);
         aniketsPhone.answer();
+
+        aniketsPhone = new MobilePhone(654987);
+        aniketsPhone.powerOn();
+        aniketsPhone.callPhone(654987);
+        aniketsPhone.answer();
     }
 }
