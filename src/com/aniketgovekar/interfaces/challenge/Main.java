@@ -13,8 +13,12 @@ public class Main {
         System.out.println(playerAniket);
         playerAniket.setWeapon("Strombringer");
         saveObject(playerAniket);
-        loadObject(playerAniket);
+//        loadObject(playerAniket);
         System.out.println(playerAniket);
+
+        ISaveable werewolf = new Monster("Werewolf", 20, 40);
+        System.out.println(werewolf);
+        saveObject(werewolf);
     }
 
     public static ArrayList<String> readValues() {
