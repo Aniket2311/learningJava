@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="950d10c5-0e94-442d-a350-e3f21100d33e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Main.java" afterPath="$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Main.java" />
     </list>
     <ignored path="learningJava.iws" />
@@ -26,10 +27,13 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1992">
-              <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#Main#0" expanded="false" />
+                <element signature="method#play#0;class#Main#0" expanded="false" />
+                <element signature="method#printList#0;class#Main#0" expanded="false" />
+                <element signature="method#printMenu#0;class#Main#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -38,8 +42,8 @@
       <file leaf-file-name="Song.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="method#Song#0;class#Song#0" expanded="false" />
                 <element signature="method#toString#0;class#Song#0" expanded="false" />
@@ -51,8 +55,8 @@
       <file leaf-file-name="Album.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Album.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="34" column="77" lean-forward="false" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="method#Album#0;class#Album#0" expanded="false" />
                 <element signature="method#addSong#0;class#Album#0" expanded="false" />
@@ -634,6 +638,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1272" y="0" width="1296" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -643,7 +648,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47058824" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47058824" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -721,18 +726,48 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/listandarraylist/challenge/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#main#0;class#Main#0" expanded="false" />
-            <element signature="method#updateContact#0;class#Main#0" expanded="false" />
-            <element signature="method#removeContact#0;class#Main#0" expanded="false" />
-            <element signature="method#queryContact#0;class#Main#0" expanded="false" />
-            <element signature="method#addNewContact#0;class#Main#0" expanded="false" />
-            <element signature="method#printAction#0;class#Main#0" expanded="false" />
+            <element signature="method#play#0;class#Main#0" expanded="false" />
+            <element signature="method#printList#0;class#Main#0" expanded="false" />
+            <element signature="method#printMenu#0;class#Main#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="method#Song#0;class#Song#0" expanded="false" />
+            <element signature="method#toString#0;class#Song#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="34" column="77" lean-forward="false" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+          <folding>
+            <element signature="method#Album#0;class#Album#0" expanded="false" />
+            <element signature="method#addSong#0;class#Album#0" expanded="false" />
+            <element signature="method#findSong#0;class#Album#0" expanded="false" />
+            <element signature="method#addToPlayList#0;class#Album#0" expanded="false" />
+            <element signature="method#addToPlayList#1;class#Album#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/listandarraylist/challenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -740,15 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#MobilePhone#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#addNewContact#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#queryContact#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#queryContact#1;class#MobilePhone#0" expanded="false" />
-            <element signature="method#removeContact#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#printContacts#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#findContact#1;class#MobilePhone#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,9 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#Contact#0;class#Contact#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,15 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="false" />
-            <element signature="method#processArrayList#0;class#Main#0" expanded="false" />
-            <element signature="method#printInstruction#0;class#Main#0" expanded="false" />
-            <element signature="method#addItem#0;class#Main#0" expanded="false" />
-            <element signature="method#modifyItem#0;class#Main#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main#0" expanded="false" />
-            <element signature="method#searchItem#0;class#Main#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,15 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="false" />
-            <element signature="method#processArrayList#0;class#Main#0" expanded="false" />
-            <element signature="method#printInstruction#0;class#Main#0" expanded="false" />
-            <element signature="method#addItem#0;class#Main#0" expanded="false" />
-            <element signature="method#modifyItem#0;class#Main#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main#0" expanded="false" />
-            <element signature="method#searchItem#0;class#Main#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -926,15 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="false" />
-            <element signature="method#processArrayList#0;class#Main#0" expanded="false" />
-            <element signature="method#printInstruction#0;class#Main#0" expanded="false" />
-            <element signature="method#addItem#0;class#Main#0" expanded="false" />
-            <element signature="method#modifyItem#0;class#Main#0" expanded="false" />
-            <element signature="method#removeItem#0;class#Main#0" expanded="false" />
-            <element signature="method#searchItem#0;class#Main#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,15 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-          <folding>
-            <element signature="method#MobilePhone#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#addNewContact#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#queryContact#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#queryContact#1;class#MobilePhone#0" expanded="false" />
-            <element signature="method#removeContact#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#printContacts#0;class#MobilePhone#0" expanded="false" />
-            <element signature="method#findContact#1;class#MobilePhone#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -965,9 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#Contact#0;class#Contact#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,14 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="false" />
-            <element signature="method#updateContact#0;class#Main#0" expanded="false" />
-            <element signature="method#removeContact#0;class#Main#0" expanded="false" />
-            <element signature="method#queryContact#0;class#Main#0" expanded="false" />
-            <element signature="method#addNewContact#0;class#Main#0" expanded="false" />
-            <element signature="method#printAction#0;class#Main#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -990,45 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2670">
           <caret line="56" column="58" lean-forward="false" selection-start-line="56" selection-start-column="58" selection-end-line="56" selection-end-column="58" />
-          <folding>
-            <element signature="method#toString#0;class#Integer#0" expanded="false" />
-            <element signature="method#toStringUTF16#0;class#Integer#0" expanded="false" />
-            <element signature="method#toUnsignedString0#0;class#Integer#0" expanded="false" />
-            <element signature="method#formatUnsignedInt#0;class#Integer#0" expanded="false" />
-            <element signature="method#formatUnsignedInt#1;class#Integer#0" expanded="false" />
-            <element signature="method#formatUnsignedIntUTF16#0;class#Integer#0" expanded="false" />
-            <element signature="method#toString#1;class#Integer#0" expanded="false" />
-            <element signature="method#getChars#0;class#Integer#0" expanded="false" />
-            <element signature="method#stringSize#0;class#Integer#0" expanded="false" />
-            <element signature="method#parseInt#0;class#Integer#0" expanded="false" />
-            <element signature="method#parseInt#1;class#Integer#0" expanded="false" />
-            <element signature="method#parseInt#2;class#Integer#0" expanded="false" />
-            <element signature="method#parseUnsignedInt#0;class#Integer#0" expanded="false" />
-            <element signature="method#parseUnsignedInt#1;class#Integer#0" expanded="false" />
-            <element signature="method#parseUnsignedInt#2;class#Integer#0" expanded="false" />
-            <element signature="method#valueOf#0;class#Integer#0" expanded="false" />
-            <element signature="method#valueOf#1;class#Integer#0" expanded="false" />
-            <element signature="method#valueOf#2;class#Integer#0" expanded="false" />
-            <element signature="docComment;method#Integer#0;class#Integer#0" expanded="false" />
-            <element signature="e#14299#14337#0" expanded="false" />
-            <element signature="docComment;method#Integer#1;class#Integer#0" expanded="false" />
-            <element signature="e#14432#14470#0" expanded="false" />
-            <element signature="method#Integer#1;class#Integer#0" expanded="false" />
-            <element signature="method#equals#0;class#Integer#0" expanded="false" />
-            <element signature="method#getInteger#1;class#Integer#0" expanded="false" />
-            <element signature="method#getInteger#2;class#Integer#0" expanded="false" />
-            <element signature="method#decode#0;class#Integer#0" expanded="false" />
-            <element signature="method#divideUnsigned#0;class#Integer#0" expanded="false" />
-            <element signature="method#remainderUnsigned#0;class#Integer#0" expanded="false" />
-            <element signature="method#highestOneBit#0;class#Integer#0" expanded="false" />
-            <element signature="method#numberOfLeadingZeros#0;class#Integer#0" expanded="false" />
-            <element signature="method#numberOfTrailingZeros#0;class#Integer#0" expanded="false" />
-            <element signature="method#bitCount#0;class#Integer#0" expanded="false" />
-            <element signature="method#reverse#0;class#Integer#0" expanded="false" />
-            <element signature="class#IntegerCache#0;class#Integer#0" expanded="false" />
-            <element signature="method#IntegerCache#0;class#IntegerCache#0;class#Integer#0" expanded="false" />
-            <element signature="initializer##0;class#IntegerCache#0;class#Integer#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1036,11 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="class#IntClass#0" expanded="false" />
-            <element signature="class#Main#0" expanded="false" />
-            <element signature="method#main#0;class#Main#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1048,14 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="48" column="78" lean-forward="false" selection-start-line="48" selection-start-column="78" selection-end-line="48" selection-end-column="78" />
-          <folding>
-            <element signature="method#Bank#0;class#Bank#0" expanded="false" />
-            <element signature="method#addBranch#0;class#Bank#0" expanded="false" />
-            <element signature="method#addCustomer#0;class#Bank#0" expanded="false" />
-            <element signature="method#addCustomerTransaction#0;class#Bank#0" expanded="false" />
-            <element signature="method#findBranch#0;class#Bank#0" expanded="false" />
-            <element signature="method#listCustomers#0;class#Bank#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,12 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="method#Branch#0;class#Branch#0" expanded="false" />
-            <element signature="method#newCustomer#0;class#Branch#0" expanded="false" />
-            <element signature="method#addCustomerTransaction#0;class#Branch#0" expanded="false" />
-            <element signature="method#findCustomer#0;class#Branch#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1076,9 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="method#Customer#0;class#Customer#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1094,9 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#Customer#0;class#Customer#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,13 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#Demo#0" expanded="false" />
-            <element signature="method#printList#0;class#Demo#0" expanded="false" />
-            <element signature="method#addInOrder#0;class#Demo#0" expanded="false" />
-            <element signature="method#visit#0;class#Demo#0" expanded="false" />
-            <element signature="method#printMenu#0;class#Demo#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1118,16 +1022,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="34" column="77" lean-forward="false" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#Album#0;class#Album#0" expanded="false" />
             <element signature="method#addSong#0;class#Album#0" expanded="false" />
@@ -1140,8 +1041,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Song.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#Song#0;class#Song#0" expanded="false" />
             <element signature="method#toString#0;class#Song#0" expanded="false" />
@@ -1151,10 +1052,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/linkedlist/challenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1992">
-          <caret line="110" column="26" lean-forward="true" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" expanded="false" />
+            <element signature="method#play#0;class#Main#0" expanded="false" />
+            <element signature="method#printList#0;class#Main#0" expanded="false" />
+            <element signature="method#printMenu#0;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
