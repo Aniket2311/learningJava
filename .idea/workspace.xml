@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="950d10c5-0e94-442d-a350-e3f21100d33e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aniketgovekar/abstractclasses/challenges/Main.java" afterPath="$PROJECT_DIR$/src/com/aniketgovekar/abstractclasses/challenges/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aniketgovekar/abstractclasses/challenges/MyLinkedList.java" afterPath="$PROJECT_DIR$/src/com/aniketgovekar/abstractclasses/challenges/MyLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/aniketgovekar/abstractclasses/challenges/Node.java" afterPath="$PROJECT_DIR$/src/com/aniketgovekar/abstractclasses/challenges/Node.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-    </list>
+    <list default="true" id="950d10c5-0e94-442d-a350-e3f21100d33e" name="Default" comment="" />
     <ignored path="learningJava.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -184,7 +179,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -194,51 +189,10 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aniketgovekar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aniketgovekar" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractclasses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractise" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aniketgovekar" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="challenges" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -696,12 +650,12 @@
       <option name="number" value="Default" />
       <updated>1518009657159</updated>
       <workItem from="1518009657946" duration="4726000" />
-      <workItem from="1522061969717" duration="3002000" />
+      <workItem from="1522061969717" duration="3602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7728000" />
+    <option name="totallyTimeSpent" value="8328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="793" y="0" width="814" height="867" extended-state="0" />
@@ -719,7 +673,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.76392573" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.76392573" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24836065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
