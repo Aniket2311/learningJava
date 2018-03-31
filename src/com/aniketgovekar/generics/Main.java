@@ -26,6 +26,16 @@ public class Main {
         hawthron.matchResult(adelaideCrows, 3, 8);
 
         adelaideCrows.matchResult(fremantle, 2, 1);
+
+        System.out.println("Rankings");
+        System.out.println(adelaideCrows.getName() + ": " + adelaideCrows.ranking());
+        System.out.println(melbourne.getName() + ": " + melbourne.ranking());
+        System.out.println(fremantle.getName() + ": " + fremantle.ranking());
+        System.out.println(hawthron.getName() + ": " + hawthron.ranking());
+
+        System.out.println(adelaideCrows.compareTo(melbourne));
+        System.out.println(adelaideCrows.compareTo(hawthron));
+        System.out.println(hawthron.compareTo(adelaideCrows));
     }
 
 }
