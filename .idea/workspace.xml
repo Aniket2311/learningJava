@@ -7,10 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2d13f28-809d-4a1b-b5df-c7004d9ed6bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractise/com/aniketgovekar/collections/Main.class" afterPath="$PROJECT_DIR$/out/production/JavaPractise/com/aniketgovekar/collections/Main.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractise/com/aniketgovekar/collections/Theatre$Seat.class" afterPath="$PROJECT_DIR$/out/production/JavaPractise/com/aniketgovekar/collections/Theatre$Seat.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractise/com/aniketgovekar/collections/Theatre.class" afterPath="$PROJECT_DIR$/out/production/JavaPractise/com/aniketgovekar/collections/Theatre.class" />
       <change beforePath="$PROJECT_DIR$/src/com/aniketgovekar/collections/Main.java" afterPath="$PROJECT_DIR$/src/com/aniketgovekar/collections/Main.java" />
       <change beforePath="$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java" afterPath="$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java" />
     </list>
@@ -33,11 +29,10 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/collections/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="624">
+              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
               <folding>
                 <element signature="docComment;class#Main#0" expanded="false" />
-                <element signature="method#printList#0;class#Main#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -46,17 +41,19 @@
       <file leaf-file-name="Theatre.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2158">
-              <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+            <state relative-caret-position="546">
+              <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               <folding>
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#2434#2435#0" expanded="true" />
-                <element signature="e#2486#2487#0" expanded="true" />
-                <element signature="e#2547#2548#0" expanded="true" />
-                <element signature="e#2635#2636#0" expanded="true" />
-                <element signature="e#3259#3260#0" expanded="true" />
-                <element signature="e#3300#3301#0" expanded="true" />
+                <element signature="e#1281#1282#0" expanded="true" />
+                <element signature="e#1315#1316#0" expanded="true" />
+                <element signature="e#2800#2801#0" expanded="true" />
+                <element signature="e#2828#2829#0" expanded="true" />
+                <element signature="e#3195#3196#0" expanded="true" />
+                <element signature="e#3283#3284#0" expanded="true" />
+                <element signature="e#3907#3908#0" expanded="true" />
+                <element signature="e#3948#3949#0" expanded="true" />
+                <element signature="e#3984#3985#0" expanded="true" />
+                <element signature="e#4020#4021#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +88,8 @@
         <option value="$PROJECT_DIR$/src/com/aniketgovekar/finalstatement/ExtendedPassword.java" />
         <option value="$PROJECT_DIR$/src/com/aniketgovekar/finalstatement/SIBTest.java" />
         <option value="$PROJECT_DIR$/src/com/aniketgovekar/finalstatement/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java" />
         <option value="$PROJECT_DIR$/src/com/aniketgovekar/collections/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java" />
       </list>
     </option>
   </component>
@@ -935,30 +932,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/collections/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="546">
+          <caret line="21" column="6" lean-forward="false" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding>
-            <element signature="docComment;class#Main#0" expanded="false" />
-            <element signature="method#printList#0;class#Main#0" expanded="false" />
+            <element signature="e#1281#1282#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+            <element signature="e#2800#2801#0" expanded="true" />
+            <element signature="e#2828#2829#0" expanded="true" />
+            <element signature="e#3195#3196#0" expanded="true" />
+            <element signature="e#3283#3284#0" expanded="true" />
+            <element signature="e#3907#3908#0" expanded="true" />
+            <element signature="e#3948#3949#0" expanded="true" />
+            <element signature="e#3984#3985#0" expanded="true" />
+            <element signature="e#4020#4021#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/collections/Theatre.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aniketgovekar/collections/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2158">
-          <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        <state relative-caret-position="624">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
           <folding>
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#2434#2435#0" expanded="true" />
-            <element signature="e#2486#2487#0" expanded="true" />
-            <element signature="e#2547#2548#0" expanded="true" />
-            <element signature="e#2635#2636#0" expanded="true" />
-            <element signature="e#3259#3260#0" expanded="true" />
-            <element signature="e#3300#3301#0" expanded="true" />
+            <element signature="docComment;class#Main#0" expanded="false" />
           </folding>
         </state>
       </provider>
